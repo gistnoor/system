@@ -1,0 +1,124 @@
+[
+
+	{
+		"args":
+		{
+			"characters": "f"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "u"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "c"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "t"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "i"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "o"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "n"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"contents": "($0)"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	
+	{
+		"args":
+		{
+			"contents": "{$0}"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+		},
+		"command": "run_macro_file"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args": null,
+		"command": "auto_semi_colon"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	}
+]

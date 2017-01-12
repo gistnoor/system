@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\$this->${1:code}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>this</tabTrigger>
+    <description>object instantiation</description>
+    <scope>source.php</scope>
+</snippet>
