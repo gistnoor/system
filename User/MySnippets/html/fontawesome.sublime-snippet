@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css"/>
-]]></content>
-    <tabTrigger>fontawesomecss</tabTrigger>
-    <description>FontAwesome - CSS CDN</description>
-    <scope>text.html</scope>
-</snippet>
