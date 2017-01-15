@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+${7:}
+function ${1:} () {
+
+	wp_add_dashboard_widget(
+		'${2:widget_id}',
+		'${3:widget_name}',
+		'${4:callback}',
+		'${5:control_callback=null}'
+	);	
+}
+
+add_action( 'wp_dashboard_setup', '${1:}' );
+
+function ${4:} () {
+	${6:}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wp-add-dashboard-widget</tabTrigger>
+	<description>wp add dashboard widget</description>
+	<scope>source.php</scope>
+</snippet>

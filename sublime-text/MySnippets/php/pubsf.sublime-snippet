@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+public static function ${1:name} (${2:}) {
+    ${3:}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pubsf</tabTrigger>
+    <description>public static function</description>
+    <scope>source.php</scope>
+</snippet>

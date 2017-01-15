@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css"/>
+]]></content>
+    <tabTrigger>resetcss</tabTrigger>
+    <description>Reset - CSS CDN</description>
+    <scope>text.html</scope>
+</snippet>

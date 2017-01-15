@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+public function get${1:function_name} (${3:param}) {
+    return ${4:object return};
+}
+
+public function set${1:function_name} (${5:param}) {
+    ${6:code};
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>getset</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>__get __set</description>
+    <scope>source.php</scope>
+</snippet>
