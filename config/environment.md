@@ -1,11 +1,11 @@
 ## Applications
-GhostWriter - For writing posts. (Alternative FocusWriter)
-Anki - For space time memory
-Stellarium - For space research
-Tor - For deep web
-Sublime Text - For programming
-Pycharm - For Programming
-Gimp - For drawing digitally
+** GhostWriter - For writing posts. (Alternative FocusWriter) 
+** Anki - For space time memory
+** Stellarium - For space research
+** Tor - For deep web
+** Sublime Text - For programming
+** Pycharm - For Programming
+** Gimp - For drawing digitally
 
 
 ### MONOGODB
