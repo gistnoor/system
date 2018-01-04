@@ -32,5 +32,8 @@
 - Radio Din Raat - http://27.147.128.134:8000/
 
 ### Python Environment
+
 Installing all basic stuffs
-`sudo apt-get install build-essential python3-dev python3 python3-pip virtualenv libssl-dev libffi-dev`
+
+
+* `sudo apt-get install build-essential python3-dev python3 python3-pip virtualenv libssl-dev libffi-dev`
