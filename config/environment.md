@@ -31,5 +31,6 @@
 - Radio Ekattor - http://103.253.47.173:8000/;
 - Radio Din Raat - http://27.147.128.134:8000/
 
-### MONOGODB
-`sudo mongod --dbpath server/mongodb/ --logpath server/mongodb/mongodb.log --port 27017`
+### Python Environment
+Installing all basic stuffs
+`sudo apt-get install build-essential python3-dev python3 python3-pip virtualenv libssl-dev libffi-dev`
