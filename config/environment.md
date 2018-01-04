@@ -7,6 +7,7 @@
 - Pycharm - For Programming  
 - Gimp - For drawing digitally  
 - Radiotray - For listening radio
+- Foxit Reader - For book reading
 
 #### Radiotray Links
 - Bangla Radio - http://103.43.151.163:6020/;stream.mp3
