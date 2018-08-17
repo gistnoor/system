@@ -8,6 +8,7 @@
 - Gimp - For drawing digitally  
 - Radiotray - For listening radio
 - Foxit Reader - For book reading
+- Stacer - Cleaner tool based on Electron
 
 #### Radiotray Links
 - Bangla Radio - http://103.43.151.163:6020/;stream.mp3
